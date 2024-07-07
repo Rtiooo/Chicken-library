@@ -1,11 +1,11 @@
 #the mod name as displayed in-game
-displayName: "Black Holes Library"
+displayName: "Chicken Library"
 
 #the internal name of your mod
-name: "black-hole-renderer"
+name: "chicken-renderer"
 
 #your name
-author: "MEEPofFaith"
+author: "Rtiooo (MEEPofFaith)"
 
 #the fully qualified main class of the mod
 main: "blackhole.BlackHoleMod"
@@ -24,6 +24,3 @@ java: true
 
 #no content
 hidden: true
-
-#mod's repo on github
-repo: MEEPofFaith/black-holes-library
